@@ -1,6 +1,7 @@
 # indexnavigation
 
 A Flutter application for illustrating navigation with IndexedStack.
+This code is just for demonstration.
 
 ## Getting Started
 
